@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f-mauro
+- 👋 Hi.
 - 👀 I’m interested in learning about cloud services
 - 🌱 I’m currently reading about AWS
 <!---
